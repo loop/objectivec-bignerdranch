@@ -10,11 +10,14 @@
 
 int main(int argc, const char * argv[])
 {
-    int i = 0;
-    do {
-        printf("%d. Aaron is cool\n", i);
-        i++;
-    } while (i < 13);
+    for (int i = 99; i >= 0; i-=3) {
+        if (i % 5 == 0 ) {
+            printf("Found one!\n");
+        } else {
+            printf("%d\n", i);
+        }
+    }
+    
     return 0;
 }
 
