@@ -25,7 +25,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		F6B16BCC1937F5AA0099178F /* Ifelsechallenge */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Ifelsechallenge; sourceTree = BUILT_PRODUCTS_DIR; };
+		F6B16BCC1937F5AA0099178F /* IfElseChallenge.temp_caseinsensitive_rename */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = IfElseChallenge.temp_caseinsensitive_rename; sourceTree = BUILT_PRODUCTS_DIR; };
 		F6B16BCF1937F5AA0099178F /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		F6B16BD11937F5AA0099178F /* Ifelsechallenge.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = Ifelsechallenge.1; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -44,7 +44,7 @@
 		F6B16BC31937F5AA0099178F = {
 			isa = PBXGroup;
 			children = (
-				F6B16BCE1937F5AA0099178F /* Ifelsechallenge */,
+				F6B16BCE1937F5AA0099178F /* IfElseChallenge */,
 				F6B16BCD1937F5AA0099178F /* Products */,
 			);
 			sourceTree = "<group>";
@@ -52,26 +52,27 @@
 		F6B16BCD1937F5AA0099178F /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F6B16BCC1937F5AA0099178F /* Ifelsechallenge */,
+				F6B16BCC1937F5AA0099178F /* IfElseChallenge.temp_caseinsensitive_rename */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		F6B16BCE1937F5AA0099178F /* Ifelsechallenge */ = {
+		F6B16BCE1937F5AA0099178F /* IfElseChallenge */ = {
 			isa = PBXGroup;
 			children = (
 				F6B16BCF1937F5AA0099178F /* main.c */,
 				F6B16BD11937F5AA0099178F /* Ifelsechallenge.1 */,
 			);
+			name = IfElseChallenge;
 			path = Ifelsechallenge;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F6B16BCB1937F5AA0099178F /* Ifelsechallenge */ = {
+		F6B16BCB1937F5AA0099178F /* IfElseChallenge.temp_caseinsensitive_rename */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F6B16BD51937F5AA0099178F /* Build configuration list for PBXNativeTarget "Ifelsechallenge" */;
+			buildConfigurationList = F6B16BD51937F5AA0099178F /* Build configuration list for PBXNativeTarget "IfElseChallenge.temp_caseinsensitive_rename" */;
 			buildPhases = (
 				F6B16BC81937F5AA0099178F /* Sources */,
 				F6B16BC91937F5AA0099178F /* Frameworks */,
@@ -81,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = Ifelsechallenge;
+			name = IfElseChallenge.temp_caseinsensitive_rename;
 			productName = Ifelsechallenge;
-			productReference = F6B16BCC1937F5AA0099178F /* Ifelsechallenge */;
+			productReference = F6B16BCC1937F5AA0099178F /* IfElseChallenge.temp_caseinsensitive_rename */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -95,7 +96,7 @@
 				LastUpgradeCheck = 0510;
 				ORGANIZATIONNAME = "Yogesh Nagarur";
 			};
-			buildConfigurationList = F6B16BC71937F5AA0099178F /* Build configuration list for PBXProject "Ifelsechallenge" */;
+			buildConfigurationList = F6B16BC71937F5AA0099178F /* Build configuration list for PBXProject "IfElseChallenge" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -107,7 +108,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F6B16BCB1937F5AA0099178F /* Ifelsechallenge */,
+				F6B16BCB1937F5AA0099178F /* IfElseChallenge.temp_caseinsensitive_rename */,
 			);
 		};
 /* End PBXProject section */
@@ -197,21 +198,21 @@
 		F6B16BD61937F5AA0099178F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = IfElseChallenge.temp_caseinsensitive_rename;
 			};
 			name = Debug;
 		};
 		F6B16BD71937F5AA0099178F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = IfElseChallenge.temp_caseinsensitive_rename;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F6B16BC71937F5AA0099178F /* Build configuration list for PBXProject "Ifelsechallenge" */ = {
+		F6B16BC71937F5AA0099178F /* Build configuration list for PBXProject "IfElseChallenge" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F6B16BD31937F5AA0099178F /* Debug */,
@@ -220,13 +221,14 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F6B16BD51937F5AA0099178F /* Build configuration list for PBXNativeTarget "Ifelsechallenge" */ = {
+		F6B16BD51937F5AA0099178F /* Build configuration list for PBXNativeTarget "IfElseChallenge.temp_caseinsensitive_rename" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F6B16BD61937F5AA0099178F /* Debug */,
 				F6B16BD71937F5AA0099178F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
